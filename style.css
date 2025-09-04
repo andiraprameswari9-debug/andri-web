@@ -56,6 +56,7 @@ body {
 }
 
 .slide img {
+  order: -1;
   margin-top: 15px;
   width: 80%; /* biar nggak full, cuma 80% dari lebar kontainer */
   max-width: 300px; /* batas maksimal, jadi nggak gede banget */
@@ -95,3 +96,4 @@ body {
     opacity: 1;
   }
 }
+
